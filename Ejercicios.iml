@@ -6,6 +6,41 @@
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/Descargas/selenium-java-4.51.0" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$USER_HOME$/Descargas/selenium-java-4.51.0" />
+        </SOURCES>
+        <jarDirectory url="file://$USER_HOME$/Descargas/selenium-java-4.51.0" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/Descargas/selenium-java-4.51.0" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/Proyectos" />
+          <root url="file://$USER_HOME$/Proyectos" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$USER_HOME$/Proyectos" />
+          <root url="file://$USER_HOME$/Proyectos/win_bin/api_winbin/src/main/java" />
+          <root url="file://$USER_HOME$/Proyectos/win_bin/api_winbin/src/test/java" />
+          <root url="file://$USER_HOME$/Proyectos/win_bin/frontend_winbin_maquina/android/app/src/main/java" />
+          <root url="file://$USER_HOME$/Proyectos/win_bin/frontend_winbin_maquina/linux/flutter/ephemeral/.plugin_symlinks/jni/android/src/main/java" />
+          <root url="file://$USER_HOME$/Proyectos/win_bin/frontend_winbin_maquina/linux/flutter/ephemeral/.plugin_symlinks/jni/example/android/app/src/main/java" />
+          <root url="file://$USER_HOME$/Proyectos/win_bin/frontend_winbin_maquina/linux/flutter/ephemeral/.plugin_symlinks/jni/java/src/main/java" />
+          <root url="file://$USER_HOME$/Proyectos/win_bin/frontend_winbin_maquina/windows/flutter/ephemeral/.plugin_symlinks/jni/android/src/main/java" />
+          <root url="file://$USER_HOME$/Proyectos/win_bin/frontend_winbin_maquina/windows/flutter/ephemeral/.plugin_symlinks/jni/example/android/app/src/main/java" />
+          <root url="file://$USER_HOME$/Proyectos/win_bin/frontend_winbin_maquina/windows/flutter/ephemeral/.plugin_symlinks/jni/java/src/main/java" />
+        </SOURCES>
+        <jarDirectory url="file://$USER_HOME$/Proyectos" recursive="false" />
+      </library>
+    </orderEntry>
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
